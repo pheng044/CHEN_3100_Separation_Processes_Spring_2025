@@ -1,4 +1,4 @@
-# CHEN_3100 Separation Processes
+# CHEN 3100 Separation Processes
 ### P.V. Heng
 
 Notes and Jupyter Notebooks constructed for the Spring 2025 offering of 'Separation Processes' at the University of Massachusetts, Lowell.
